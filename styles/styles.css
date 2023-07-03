@@ -44,7 +44,7 @@ nav a{
 }
 nav a:hover{
     color: aqua;
-    background-color: #606c38;
+    background-color: #373d20;
 }
 #hero{
     display: grid;
